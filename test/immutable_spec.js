@@ -3,7 +3,7 @@ import {List} from 'immutable';
 
 describe('immutability', () => {
 
-  // ...
+  
 
   describe('A List', () => {
 
